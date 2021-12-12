@@ -83,7 +83,7 @@ font-weight: bold;
 /* showcase */
 #showcase{
     min-height: 400px;
-    background: url('../images/showcase.png') no-repeat 0 -200px;
+    background: url('images/showcase.png') no-repeat 0 -200px;
     background-size: cover;
     text-align: center;
 }
